@@ -31,7 +31,7 @@ ecreater
 {Qexplain: "用于调查医生态度是否良好", AType: "3,2,备注", createtime: 1488333600000,…}
 AType
 :
-"3,2,备注"
+"3,2,备注1"
 ORDROWID
 :
 "45D93B35-47A4-4A67-8F1B-D305079940F6"
